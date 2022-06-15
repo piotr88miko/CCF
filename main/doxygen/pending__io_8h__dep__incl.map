@@ -1,0 +1,24 @@
+<map id="src/ds/pending_io.h" name="src/ds/pending_io.h">
+<area shape="rect" id="node1" title=" " alt="" coords="467,5,614,32"/>
+<area shape="rect" id="node2" href="$tcp_8h.html" title=" " alt="" coords="311,80,421,107"/>
+<area shape="rect" id="node7" href="$udp_8h.html" title=" " alt="" coords="484,80,597,107"/>
+<area shape="rect" id="node8" href="$quic__endpoint_8h.html" title=" " alt="" coords="646,80,825,107"/>
+<area shape="rect" id="node3" href="$acme__challenge__server_8h.html" title=" " alt="" coords="236,155,419,196"/>
+<area shape="rect" id="node5" href="$node__connections_8h.html" title=" " alt="" coords="5,162,212,189"/>
+<area shape="rect" id="node6" href="$rpc__connections_8h.html" title=" " alt="" coords="443,162,638,189"/>
+<area shape="rect" id="node4" href="$host_2main_8cpp.html" title=" " alt="" coords="259,244,396,271"/>
+<area shape="rect" id="node9" href="$rpc__sessions_8h.html" title=" " alt="" coords="662,162,857,189"/>
+<area shape="rect" id="node10" href="$enclave_2enclave_8h.html" title=" " alt="" coords="1059,721,1222,748"/>
+<area shape="rect" id="node12" href="$ccf__acme__client_8h.html" title=" " alt="" coords="617,490,816,517"/>
+<area shape="rect" id="node13" href="$node__state_8h.html" title=" " alt="" coords="835,572,1001,599"/>
+<area shape="rect" id="node15" href="$node__client_8h.html" title=" " alt="" coords="943,244,1111,271"/>
+<area shape="rect" id="node22" href="$resharing_8h.html" title=" " alt="" coords="567,408,722,435"/>
+<area shape="rect" id="node11" href="$enclave_2main_8cpp.html" title=" " alt="" coords="1061,796,1221,823"/>
+<area shape="rect" id="node14" href="$gov__effects_8h.html" title=" " alt="" coords="978,647,1170,673"/>
+<area shape="rect" id="node16" href="$orc__requests_8h.html" title=" " alt="" coords="948,319,1107,360"/>
+<area shape="rect" id="node17" href="$raft_8h.html" title=" " alt="" coords="1181,408,1353,435"/>
+<area shape="rect" id="node20" href="$http__node__client_8h.html" title=" " alt="" coords="841,483,987,524"/>
+<area shape="rect" id="node21" href="$retired__nodes__cleanup_8h.html" title=" " alt="" coords="1131,319,1302,360"/>
+<area shape="rect" id="node18" href="$node__frontend_8h.html" title=" " alt="" coords="946,408,1157,435"/>
+<area shape="rect" id="node19" href="$jwt__key__auto__refresh_8h.html" title=" " alt="" coords="1012,483,1179,524"/>
+</map>
